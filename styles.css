@@ -1,0 +1,117 @@
+header {
+    background: linear-gradient(135deg, rgba(0,0,0,1),rgba(0,0,0,0.2)),
+    url('photo_2023-10-08_12-50-01\ -\ Copy.jpg');
+    min-height: 100vh;
+    background-size: cover;
+    margin-top:-50px;
+}
+header h1{
+    font-size: 50px;
+    color:gray;
+    
+    
+    padding: 130px;
+}
+header p{
+    font-size: 20px;
+   
+    color: aliceblue;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+   
+
+  }
+  .btt{
+    text-align: center;
+  }
+  
+  .hero {
+    background-color: #f5f5f5;
+    text-align: center;
+    padding: 100px;
+  }
+  
+  .hero h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  .hero p {
+    font-size: 18px;
+    margin-bottom: 40px;
+  }
+  
+  .cta-button {
+    display: inline-block;
+    padding: 12px 24px;
+    font-size: 18px;
+    background-color: #4CAF50;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  .card{
+
+    background: linear-gradient(45deg, black, transparent);
+  }
+  
+  .cta-button:hover {
+    background-color: #45a049;
+  }
+  .eclipse{
+    background: linear-gradient(45deg, black, transparent),url('photo_2023-10-08_08-18-31.jpg');
+  }
+  
+  .about-section {
+    background: linear-gradient(45deg, black, transparent),url('photo_2023-10-08_08-18-31.jpg');
+    padding: 50px;
+    text-align: center;
+    color: #f5f5f5;
+
+  }
+  
+  .about-section h2 {
+    font-size: 24px;
+  }
+  
+  .ellipse-examples {
+    background-color: #f9f9f9;
+    padding: 50px;
+    text-align: center;
+  }
+  
+  .ellipse-example {
+    margin-bottom: 20px;
+  }
+  
+  .ellipse-example img {
+    max-width: 100%;
+  }
+  
+  .contact {
+    background-color: #ffffff;
+    padding: 50px;
+    text-align: center;
+  }
+  
+  .contact h2 {
+    font-size: 24px;
+  }
+  
+  .contact p {
+    margin-bottom: 20px;
+  }
+  
+  .footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #f5f5f5;
+  }
+  .foot{
+    font-weight: bolder;
+  }
+  
